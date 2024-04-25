@@ -44,7 +44,7 @@
     - `source venv/bin/activate`
  4. Install Libraries: `pip install numpy pandas matplotlib seaborn scikit-learn`
  5. Open `food-prediction.ipynb` and run all cells
- 6. Or you can download the `onlinefoods.csv` and `food-prediction.ipynb` file from the repository and directly run it on [Google Colab](https://colab.research.google.com/)
+ 6. Or you can download the `onlinefoods.csv` and `food-prediction.ipynb` file from the repository, upload those files to [Google Colab](https://colab.research.google.com/) then run all the cells in the `food-prediction.ipynb` Notebook
 
 ## Acknowledgments
  - I would like to thank [Aman Kharwal](https://www.linkedin.com/in/aman-kharwal)
